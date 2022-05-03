@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "tweepy-server",
+			"path": "../tweepy-server"
+		},
+		{
+			"name": "website_backend",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
